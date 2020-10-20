@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Algorithm's_stek\Algorithm's_stek\bin\Debug\netcoreapp3.1\Algorithm's_stek.exe
+C:\Users\Admin\source\repos\Algorithm's_stek\Algorithm's_stek\bin\Debug\netcoreapp3.1\Algorithm's_stek.deps.json
+C:\Users\Admin\source\repos\Algorithm's_stek\Algorithm's_stek\bin\Debug\netcoreapp3.1\Algorithm's_stek.runtimeconfig.json
+C:\Users\Admin\source\repos\Algorithm's_stek\Algorithm's_stek\bin\Debug\netcoreapp3.1\Algorithm's_stek.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Algorithm's_stek\Algorithm's_stek\bin\Debug\netcoreapp3.1\Algorithm's_stek.dll
+C:\Users\Admin\source\repos\Algorithm's_stek\Algorithm's_stek\bin\Debug\netcoreapp3.1\Algorithm's_stek.pdb
+C:\Users\Admin\source\repos\Algorithm's_stek\Algorithm's_stek\obj\Debug\netcoreapp3.1\Algorithm's_stek.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Algorithm's_stek\Algorithm's_stek\obj\Debug\netcoreapp3.1\Algorithm's_stek.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Algorithm's_stek\Algorithm's_stek\obj\Debug\netcoreapp3.1\Algorithm's_stek.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Algorithm's_stek\Algorithm's_stek\obj\Debug\netcoreapp3.1\Algorithm's_stek.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Algorithm's_stek\Algorithm's_stek\obj\Debug\netcoreapp3.1\Algorithm's_stek.dll
+C:\Users\Admin\source\repos\Algorithm's_stek\Algorithm's_stek\obj\Debug\netcoreapp3.1\Algorithm's_stek.pdb
+C:\Users\Admin\source\repos\Algorithm's_stek\Algorithm's_stek\obj\Debug\netcoreapp3.1\Algorithm's_stek.genruntimeconfig.cache
